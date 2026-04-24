@@ -1,7 +1,7 @@
 <h1 align="center">💀 Nurendra Bhandarigal 💀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Security+Researcher;Red+Team+Analyst;Bug+Bounty+Hunter;Cybersecurity+Tool+Developer;VAPT;Think+Like+an+Attacker" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Security+Researcher;Red+Team+Analyst;Bug+Bounty+Hunter;Cybersecurity+Tool+Developer;VAPT;Web+Developer;Think+Like+an+Attacker" />
 </p>
 
 <p align="center">
