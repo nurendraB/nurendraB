@@ -56,8 +56,15 @@ Building. Breaking. Learning.
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnu-bash"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark"/>
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=Metasploit"/>
-<img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable"/>
+<img src="https://img.shields.io/badge/C2_Frameworks-000000?style=for-the-badge&logo=C2"/>
+<img src="https://img.shields.io/badge/Gidra-000000?style=for-the-badge&logo=gidra"/>
+<img src="https://img.shields.io/badge/Vulnerability_Scanners-000000?style=for-the-badge&logo=Vulnscan"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/120px-Nessus-Professional-FullColor-RGB.svg.png"/>
 <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=OWASP"/>
+<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/c7fa5573-8951-418c-b149-4adf8a5a4f1a"/>
+
+<img src="https://img.shields.io/badge/More..-000000?style=for-the-badge&logo=more"/>
+  
 </p>
 
 ---
