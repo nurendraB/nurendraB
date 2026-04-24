@@ -12,13 +12,13 @@
 
 ```bash
 > whoami
-Nurendra (spiderinshell)
+Nurendra Bhandarigal (spiderinshell)
 
 > role
-Cybersecurity Researcher | Offensive Security Learner
+Cybersecurity Researcher | Offensive Security | VAPT | SOC Analyst | Threat Intelligence | Cyber Incident Response
 
 > focus
-Red Teaming • VAPT • Tool Development (Go)
+Red Teaming • VAPT • Cybersecurity Tool Development  • Bug Bounty Hunting • Malware Analysis • Web Development  • OSINT
 
 > status
 Building. Breaking. Learning.
@@ -29,8 +29,8 @@ Building. Breaking. Learning.
 ## 🧠 About Me
 
 * 🔐 Passionate about **Offensive Security & Red Teaming**
-* ⚙️ Building **custom security tools in Go**
-* 🌐 Skilled in **Web + Network Penetration Testing**
+* ⚙️ Building **custom security tools**
+* 🌐 Skilled in **Web & Network Penetration Testing**
 * 🧪 Exploring **Digital Forensics & OSINT**
 * 🚀 Goal: Become a **top-tier Red Team Operator**
 
@@ -39,8 +39,8 @@ Building. Breaking. Learning.
 ## 🌐 Connect
 
 <p align="center">
-<a href="https://twitter.com/spiderinshell"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter"/></a>
-<a href="https://linkedin.com/in/nurendra-bhandarigal"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://twitter.com/spiderinshell"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x"/></a>
+<a href="https://linkedin.com/in/nurendra-bhandarigal"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/></a>
 <a href="https://medium.com/@spiderinshell"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/></a>
 <a href="https://www.hackerrank.com/nurendrabhandari"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank"/></a>
 </p>
@@ -56,8 +56,8 @@ Building. Breaking. Learning.
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnu-bash"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark"/>
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=Metasploit"/>
-<img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable"/>
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=OWASP"/>
 </p>
 
 ---
