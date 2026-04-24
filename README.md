@@ -1,35 +1,147 @@
-<h1 align="center">Hi 👋, I'm Nurendra Bhandarigal</h1>
-<h3 align="center">A Security Researcher / Bug Bounty Hunter and Web Developer from India</h3>
+<h1 align="center">💀 Nurendra Bhandarigal 💀</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurendrab&label=Profile%20views&color=0e75b6&style=flat" alt="nurendrab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurendrab" alt="nurendrab" /></a> </p>
-
-- 🔭 I’m currently working on **Red Teaming Tool**
-
-- 🌱 I’m currently learning **Red Teaming**
-
-- 👯 I’m looking to collaborate on **Security Research**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nurendraB?tab=repositories](https://github.com/nurendraB?tab=repositories)
-
-- 💬 Ask me about **Vulnerability Assessment and Penetration Testing, Digital Forensics, SOC Analyst, Malware Analysis, ReactJs, MongoDB, Java, Python**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/spiderinshell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spiderinshell" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nurendra-bhandarigal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurendra-bhandarigal" height="30" width="40" /></a>
-<a href="https://medium.com/@spiderinshell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@spiderinshell" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nurendrabhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nurendrabhandari" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Security+Researcher;Red+Team+Analyst;Bug+Bounty+Hunter;Cybersecurity+Tool+Developer;VAPT;Think+Like+an+Attacker" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nurendraB&label=Visitors&color=00ff00&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurendrab&show_icons=true&locale=en&layout=compact" alt="nurendrab" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurendrab&show_icons=true&locale=en" alt="nurendrab" /></p>
+```bash
+> whoami
+Nurendra (spiderinshell)
+
+> role
+Cybersecurity Researcher | Offensive Security Learner
+
+> focus
+Red Teaming • VAPT • Tool Development (Go)
+
+> status
+Building. Breaking. Learning.
+```
+
+---
+
+## 🧠 About Me
+
+* 🔐 Passionate about **Offensive Security & Red Teaming**
+* ⚙️ Building **custom security tools in Go**
+* 🌐 Skilled in **Web + Network Penetration Testing**
+* 🧪 Exploring **Digital Forensics & OSINT**
+* 🚀 Goal: Become a **top-tier Red Team Operator**
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://twitter.com/spiderinshell"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter"/></a>
+<a href="https://linkedin.com/in/nurendra-bhandarigal"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://medium.com/@spiderinshell"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/></a>
+<a href="https://www.hackerrank.com/nurendrabhandari"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank"/></a>
+</p>
+
+---
+
+## 🛠️ Arsenal
+
+### 🔐 Offensive Security
+
+<p align="center">
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnu-bash"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=Metasploit"/>
+<img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌐 Web Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ Programming
+
+<p align="center">
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash"/>
+</p>
+
+---
+
+### 🧱 Infrastructure
+
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+```bash
+> spiderNetscan
+Go-based vulnerability scanner with CVE mapping
+
+> reconSpiderIP
+OSINT tool for IP intelligence gathering
+```
+
+---
+
+## 📊 Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nurendraB&show_icons=true&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurendraB&layout=compact&theme=chartreuse-dark"/>
+</p>
+
+---
+
+## 🐍 Activity
+
+<p align="center">
+<img src="https://github.com/nurendraB/nurendraB/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚠️ Disclaimer
+
+```bash
+All tools are for educational purposes and authorized testing only.
+```
+
+---
+
+## 💀 Philosophy
+
+```bash
+Think like an attacker.
+Build like a defender.
+Stay curious. Stay dangerous.
+```
+
