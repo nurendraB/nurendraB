@@ -18,7 +18,7 @@ Nurendra Bhandarigal (spiderinshell)
 Cybersecurity Researcher | Offensive Security | VAPT | SOC Analyst | Threat Intelligence | Cyber Incident Response
 
 > focus
-Red Teaming • VAPT • Cybersecurity Tool Development  • Bug Bounty Hunting • Malware Analysis • Web Development  • OSINT
+Red Teaming • VAPT • Security Tool Development  • Bug Bounty Hunting • Malware Analysis • Web Development • OSINT
 
 > status
 Building. Breaking. Learning.
