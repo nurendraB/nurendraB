@@ -132,6 +132,7 @@ OSINT tool for IP intelligence gathering
 
 <p align="center">
 <img src="https://github.com/nurendraB/nurendraB/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://tryhackme.com/spiderinshell/badges/pentestingtools?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy" />
 </p>
 
 ---
