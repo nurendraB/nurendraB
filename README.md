@@ -131,8 +131,9 @@ OSINT tool for IP intelligence gathering
 ## 🐍 Activity
 
 <p align="center">
-<img src="https://github.com/nurendraB/nurendraB/blob/output/github-contribution-grid-snake.svg" />
-<img src="https://tryhackme.com/spiderinshell/badges/pentestingtools?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy" />
+<img src="https://github.com/nurendraB/nurendraB/blob/output/github-contribution-grid-snake.svg"/>
+<img width="200" height="500" src="https://github.com/nurendraB/myPortfolio-nurendra/blob/gh-pages/assets/CEHM-68h3j6d0.png"/>
+<img width="1000" height="5000" src="https://github.com/nurendraB/myPortfolio-nurendra/blob/gh-pages/assets/CEHPN-Dq31Jwmh.png"/>
 </p>
 
 ---
